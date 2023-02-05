@@ -53,5 +53,17 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "postcss": "^8.4.6",
     "tailwindcss": "^3.0.19"
-  }
+  },
+  "description": "H! This a Admin-Dashboard front end clone that i´ve built using ReactJS.  \r __You can visit the website clicking [here!](https://react-admin-dashboard01.netlify.app/)__",
+  "main": "craco.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevKhal/AdminDashboard.git"
+  },
+  "author": "devkhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevKhal/AdminDashboard/issues"
+  },
+  "homepage": "https://github.com/DevKhal/AdminDashboard#readme"
 }
